@@ -1,7 +1,14 @@
+Source code is from [ReChorus](https://github.com/THUwangcy/ReChorus)  
+My contributions are:
+- MovieLens for Chorus and Amazon Electronics datasets https://github.com/Veronika-Ivanova/use_rs/tree/main/data
+- implementation of original HGN and SHAN models https://github.com/Veronika-Ivanova/use_rs/tree/main/src/models/sequential
+- modification of models: HGN2, SHAN2, SLRCPlus2, Chorus2, KDA2 https://github.com/Veronika-Ivanova/use_rs/tree/main/src/models/sequential
+- all the experiments
+
 # User-specific embeddings in time-aware sequential recommender models
 
-Code Release for submission "User-specific embeddings in time-aware sequential
-recommender models". The repository contains source code for reproducing the experiments presented in the paper.
+Code Release for submission ["Towards interaction-based user embeddings in
+sequential recommender models"](https://orsum.inesctec.pt/orsum2022/assets/files/paper10.pdf). The repository contains source code for reproducing the experiments presented in the paper.
 
 ## Getting Started
 
